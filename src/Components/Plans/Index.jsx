@@ -1,16 +1,13 @@
 import React from 'react';
 import './style.scss';
 
-const Hero = () => {
+const Plans = () => {
   return(
-    <section id="hero">
+    <section id="plans">
       <div className="container">
         <div className="row">
           <div className="col-md-12">
-            <h1 className="bold">Hello World</h1>
-            <p>Encontre a corrida certa.
-              ehehhehe
-            </p>
+
           </div>
         </div>
       </div>
@@ -18,4 +15,4 @@ const Hero = () => {
   )
 }
 
-export default Hero;
+export default Plans;
